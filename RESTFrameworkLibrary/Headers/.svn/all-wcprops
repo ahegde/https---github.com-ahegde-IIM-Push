@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers
+END
+SA_BackgroundThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/SA_BackgroundThread.h
+END
+SA_Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/SA_Base.h
+END
+UIGestureRecognizer+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/UIGestureRecognizer+SA_Additions.h
+END
+NSString+MM_String.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/NSString+MM_String.h
+END
+_MM_SFChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/_MM_SFChange.h
+END
+UISegmentedControl+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UISegmentedControl+SA_Additions.h
+END
+SA_LazyLoadingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/SA_LazyLoadingScrollView.h
+END
+SA_SplashScreenImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/SA_SplashScreenImageView.h
+END
+NSTimer+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSTimer+SA_Additions.h
+END
+CAAnimation+SA_Blocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/CAAnimation+SA_Blocks.h
+END
+dispatch_additions_SA.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/dispatch_additions_SA.h
+END
+NSManagedObject+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/NSManagedObject+SA_Additions.h
+END
+MM_OrgMetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_OrgMetaData.h
+END
+NSSortDescriptor+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSSortDescriptor+SA_Additions.h
+END
+RestKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/RestKit.h
+END
+SFOAuthInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/SFOAuthInfo.h
+END
+NSManagedObjectContext+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/NSManagedObjectContext+SA_Additions.h
+END
+MMSF_Object.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MMSF_Object.h
+END
+SA_Utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/SA_Utilities.h
+END
+MM_LoginViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seedsman360/!svn/ver/12/trunk/RESTFrameworkLibrary/Headers/MM_LoginViewController.h
+END
+_MM_SFObjectDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/_MM_SFObjectDefinition.h
+END
+MM_SFObjectDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_SFObjectDefinition.h
+END
+UIActionSheet+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIActionSheet+SA_Additions.h
+END
+MM_Headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/MM_Headers.h
+END
+MM_ContextManager+Model.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/MM_ContextManager+Model.h
+END
+UIButton+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIButton+SA_Additions.h
+END
+SA_PleaseWaitDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seedsman360/!svn/ver/19/trunk/RESTFrameworkLibrary/Headers/SA_PleaseWaitDisplay.h
+END
+NSBundle+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSBundle+SA_Additions.h
+END
+NSFileManager+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSFileManager+SA_Additions.h
+END
+MM_ContextManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_ContextManager.h
+END
+MM_TabularDataView.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/57/trunk/RESTFrameworkLibrary/Headers/MM_TabularDataView.h
+END
+UIImageView+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIImageView+SA_Additions.h
+END
+SA_BlockButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/SA_BlockButton.h
+END
+SFRestAPI+Blocks.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/SFRestAPI+Blocks.h
+END
+UILabel+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UILabel+SA_Additions.h
+END
+NSData+SA_MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSData+SA_MD5.h
+END
+MM_SOQLQueryString.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_SOQLQueryString.h
+END
+SA_AlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/SA_AlertView.h
+END
+NSEntityDescription+MM.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/NSEntityDescription+MM.h
+END
+SFOAuthCredentials.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/SFOAuthCredentials.h
+END
+NSManagedObject+ActiveRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/NSManagedObject+ActiveRecord.h
+END
+UIDevice+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/UIDevice+SA_Additions.h
+END
+NSData+MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/NSData+MD5.h
+END
+UIToolbar+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIToolbar+SA_Additions.h
+END
+MM_Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_Config.h
+END
+MM_RecordFieldMultiColumnView.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_RecordFieldMultiColumnView.h
+END
+NSURL+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSURL+SA_Additions.h
+END
+MM_SyncManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_SyncManager.h
+END
+SFRestAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/SFRestAPI.h
+END
+MM_Notifications.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_Notifications.h
+END
+NSString+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSString+SA_Additions.h
+END
+NSObject+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSObject+SA_Additions.h
+END
+MM_BasicRecordsTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/MM_BasicRecordsTable.h
+END
+MM_SFChange.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/seedsman360/!svn/ver/12/trunk/RESTFrameworkLibrary/Headers/MM_SFChange.h
+END
+MM_ScrollableColumnsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/MM_ScrollableColumnsView.h
+END
+NSData+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSData+SA_Additions.h
+END
+SFRestAPI+QueryBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/SFRestAPI+QueryBuilder.h
+END
+UIViewController+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/UIViewController+SA_Additions.h
+END
+MM_Log.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/MM_Log.h
+END
+SA_StackedScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/SA_StackedScrollView.h
+END
+NSDate+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSDate+SA_Additions.h
+END
+TestFlight.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/seedsman360/!svn/ver/57/trunk/RESTFrameworkLibrary/Headers/TestFlight.h
+END
+UIImage+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIImage+SA_Additions.h
+END
+UITableViewCell+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UITableViewCell+SA_Additions.h
+END
+SA_SelfDrawingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/SA_SelfDrawingView.h
+END
+MM_RecordFieldColumnView.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_RecordFieldColumnView.h
+END
+UIScrollView+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIScrollView+SA_Additions.h
+END
+NSNotificationCenter+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSNotificationCenter+SA_Additions.h
+END
+SA_NavigationController.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/SA_NavigationController.h
+END
+MM_RestOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/MM_RestOperation.h
+END
+NSString+RestKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/NSString+RestKit.h
+END
+UIPopoverController+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/UIPopoverController+SA_Additions.h
+END
+MM_SFObjectDefinition+SOAP_DescribeLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/MM_SFObjectDefinition+SOAP_DescribeLayout.h
+END
+NSUserDefaults+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSUserDefaults+SA_Additions.h
+END
+MM_Constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/seedsman360/!svn/ver/56/trunk/RESTFrameworkLibrary/Headers/MM_Constants.h
+END
+MM_WebViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/MM_WebViewController.h
+END
+UIView+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIView+SA_Additions.h
+END
+UIColor+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIColor+SA_Additions.h
+END
+NSManagedObjectModel+MM.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/NSManagedObjectModel+MM.h
+END
+UIBarButtonItem+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/UIBarButtonItem+SA_Additions.h
+END
+NSString+SA_MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSString+SA_MD5.h
+END
+SA_MemoryDisplayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/SA_MemoryDisplayView.h
+END
+NSArray+SA_Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/seedsman360/!svn/ver/37/trunk/RESTFrameworkLibrary/Headers/NSArray+SA_Additions.h
+END
+SFOAuthCoordinator.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/SFOAuthCoordinator.h
+END
+NSData+SFAdditions.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/NSData+SFAdditions.h
+END
+SFRestRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/seedsman360/!svn/ver/59/trunk/RESTFrameworkLibrary/Headers/SFRestRequest.h
+END
+CoreData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/CoreData.h
+END
+NSString+UniqueStrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/seedsman360/!svn/ver/7/trunk/RESTFrameworkLibrary/Headers/NSString+UniqueStrings.h
+END
+SA_ConnectionQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/seedsman360/!svn/ver/36/trunk/RESTFrameworkLibrary/Headers/SA_ConnectionQueue.h
+END

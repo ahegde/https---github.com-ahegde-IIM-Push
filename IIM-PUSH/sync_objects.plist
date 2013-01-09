@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>User</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Opportunity</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mobile_Device__c</string>
+		</dict>
+	</array>
+	<key>unused</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Profile</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RecordType</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Contact</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Product2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Asset</string>
+		</dict>
+	</array>
+</dict>
+</plist>

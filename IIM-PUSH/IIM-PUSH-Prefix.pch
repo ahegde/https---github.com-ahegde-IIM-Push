@@ -1,6 +1,8 @@
 //
 // Prefix header for all source files of the 'IIM-PUSH' target in the 'IIM-PUSH' project
-//
+//#define kRemoteAccessConsumerKey @"3MVG9Y6d_Btp4xp5dgxI9GY_EORAZKCO3G3Mc8f_cIJyhbftoMIOqzs2gOPXQcGWCpBtvv8a8XejW9FQav.Wm"
+//3MVG9y6x0357HleejikYgTgKSQy7Ba8e7zCk_NwT6fye_OKUEmRjgZxgZ8OQCywvuw7WaW_g5VAJpijHWt9kC
+//3MVG9zeKbAVObYjPyqQFacuFq407hs45kNaeMmx0NNPg8WlW2dCFNu7zXTudpUKpMZ9CPpS83V.hNJfKHcndW
 
 #import <Availability.h>
 
@@ -12,3 +14,9 @@
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
 #endif
+
+#define			kOAuthRedirectURI					@"https://login.salesforce.com/services/oauth2/success"
+#define			kOAuthLoginDomain					@"login.salesforce.com"
+
+#define kRemoteAccessConsumerKey @"3MVG9y6x0357HleejikYgTgKSQy7Ba8e7zCk_NwT6fye_OKUEmRjgZxgZ8OQCywvuw7WaW_g5VAJpijHWt9kC"
+ 

@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SA_Base.h"
 
 @class ViewController;
 
@@ -16,4 +17,15 @@
 
 @property (strong, nonatomic) ViewController *viewController;
 
+@property (strong, nonatomic) AppDelegate *g_appDelegate;
+
+@property (nonatomic, strong) NSManagedObjectContext *context;
+
+@property (nonatomic, strong) UINavigationController *navigationController;
+
+@property (nonatomic, retain) NSDictionary *notificationData;
+
+SINGLETON_INTERFACE_FOR_CLASS_AND_METHOD(AppDelegate, sharedInstance);
++ (void)errorWithError:(NSError*)error;
++ (void)errorWithMessage:(NSString*)message;
 @end
